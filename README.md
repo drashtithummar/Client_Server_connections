@@ -37,10 +37,10 @@ To run these projects locally:
 ### 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/drashtithummar/Client_Server_connections.git
-   cd Client_Server_connections
+   cd Client_Server_connections```
 
 
-### Ensure Node.js is Installed:
+Ensure Node.js is Installed:
 
 These scripts require Node.js.
 Verify your Node.js installation:
@@ -48,7 +48,7 @@ Verify your Node.js installation:
 node --version
 Run the Server Script:
 
-### Navigate to the directory containing the server script you wish to run.
+Navigate to the directory containing the server script you wish to run.
 Start the server:
 
 node ServerScript.js
@@ -65,7 +65,7 @@ node ClientScript.js
 Replace ClientScript.js with the appropriate client file name.
 
 
-### 🛠️ Features
+🛠️ Features
 Modular Design: Each project is organized into client-server pairs for clarity.
 Scalability: Easily extendable to include additional functionalities.
 Educational Value: Demonstrates fundamental client-server communication concepts.
